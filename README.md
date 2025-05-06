@@ -10,4 +10,6 @@ This project is powered by a simple Bash script (`love.sh`). Run it in your term
    git clone https://github.com/your_username/your_repo.git
    cd your_repo
 
+2. Usage
+ ```bash
 bash love.sh
