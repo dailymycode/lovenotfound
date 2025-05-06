@@ -7,8 +7,8 @@ This project is powered by a simple Bash script (`love.sh`). Run it in your term
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/your_repo.git
-   cd your_repo
+   git clone https://github.com/dailymycode/lovenotfound.git
+   cd lovenotfound
 
 2. Usage
  ```bash
